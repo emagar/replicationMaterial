@@ -1,6 +1,9 @@
 # open libreoffice files
 .~*.*#
 
+# org source for readmes
+README.org
+
 # History files
 .Rhistory
 .Rapp.history
