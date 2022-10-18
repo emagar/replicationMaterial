@@ -1,8 +1,11 @@
 # open libreoffice files
 .~*.*#
 
-# org source for readmes
+# org source for readmes etc
 README.org
+corrigendum.org
+corrigendum.tex
+cox-magar1999/corrigendum/auto/
 
 # History files
 .Rhistory

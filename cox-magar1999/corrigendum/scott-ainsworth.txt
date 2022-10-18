@@ -1,0 +1,20 @@
+I believe that you are right, Scott, you have found an erratum in the text, which fails to take the cross-temporal perspective when interpreting the chFrosh coefficient. In thousands of dollars, we estimated:
+
+chC =  a +  b*chMaj +  c*chFrosh + ...
+chC = 35 + 36*chMaj + 23*chFrosh + ...
+
+So other things constant:
+if maj lost   -> chMaj = -1 -> chC = 36*(-1) = -$36
+if maj gained -> chMaj = +1 -> chC           = +$36 
+if unchanged  -> chMaj =  0 -> chC           =   $0
+and (given Frosh in t=2 is always zero for selected members):
+if  Frosh in t=1 -> chFrosh = -1 -> chC = -$23
+if ~Frosh in t=1 -> chFrosh =  0 -> chC =   $0
+
+I will point this mistake in the replication repository (https://github.com/emagar/replicationMaterial) and communicate the corrigendum to the journal. 
+
+Thank you for the input, and for the interest in our research. I look forward to reading your manuscript.
+
+-Eric Magar
+
+ 
