@@ -1,10 +1,13 @@
+#+TITLE: Data and code to replicate analysis
+#+AUTHOR: Eric Magar
 Last revision: 2022-10-17
 
+# replicationMaterial
 Repository distributes data and code to replicate analysis.
 
--   Directory [`cox-magar1999/`](./cox-magar1999/) is for Gary W. Cox and Eric Magar (1999) How Much id Majority in the US Congress Worth?, *American Political Science Review* 93(1):299&#x2013;309.
+- Directory [[./cox-magar1999/][~cox-magar1999/~]] is for Gary W. Cox and Eric Magar (1999) How Much id Majority in the US Congress Worth?, /American Political Science Review/ 93(1):299--309.
 
-```bibtex
+#+BEGIN_SRC bibtex
 @article{cox.magar.1999,
     author  = {Cox, Gary W. and Magar, Eric},
     title   = {How Much is Majority in the {US} Congress Worth?},
@@ -14,11 +17,11 @@ Repository distributes data and code to replicate analysis.
     pages   = {299--309},
     year    = {1999},
 }
-```
+#+END_SRC
 
--   Directory [`gubCoat/`](./gubCoat/) is for Eric Magar (2012) Gubernatorial Coattails in Mexican Congressional Elections, *The Journal of Politics* 74(2):383&#x2013;399.
+- Directory [[./gubCoat/][~gubCoat/~]] is for Eric Magar (2012) Gubernatorial Coattails in Mexican Congressional Elections, /The Journal of Politics/ 74(2):383--399.
 
-```bibtex
+#+BEGIN_SRC bibtex
 @article{magar.gubCoatMx.2012,
     author  = {Magar, Eric},
     title   = {Gubernatorial Coattails in {M}exican Congressional Elections},
@@ -29,4 +32,6 @@ Repository distributes data and code to replicate analysis.
     issn    = {0022-3816},
     year    = {2012},
 }
-```
+#+END_SRC
+
+
