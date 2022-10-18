@@ -2,7 +2,7 @@ Last revision: 2022-10-17
 
 Repository distributes data and code to replicate analysis.
 
--   Directory [`cox-magar1999/`](./cox-magar1999/) is for Gary W. Cox and Eric Magar (1999) How Much id Majority in the US Congress Worth?, *American Political Science Review* 93(1):299&#x2013;309.
+-   Directory [`cox-magar1999/`](./cox-magar1999/) is for Gary W. Cox and Eric Magar (1999) How Much is Majority in the US Congress Worth?, *American Political Science Review* 93(1):299&#x2013;309.
 
 ```bibtex
 @article{cox.magar.1999,
