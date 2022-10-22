@@ -30,3 +30,17 @@ Repository distributes data and code to replicate analysis.
     year    = {2012},
 }
 ```
+
+-   Directory [`magar-palanza-sin2021/`](./gubCoat/) is for Eric Magar, Valeria Palanza and Gisela Sin (2021) Presidents on the Fast Track: Amendments with Restrictive Rules, *The Journal of Politics* 83(2):633&#x2013;646.
+
+```bibtex
+@article{magar-palanza-sin2021jop,
+    author  = {Magar, Eric and Palanza, Valeria and Sin, Gisela},
+    title   = {Presidents on the fast track: Fighting floor amendments in the Chilean C\'amara},
+    journal = {The Journal of Politics},
+    volume  = {83},
+    number  = {2},
+    pages   = {633--646},
+    year    = {2021},
+}
+```

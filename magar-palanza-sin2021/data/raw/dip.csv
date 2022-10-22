@@ -1,0 +1,378 @@
+ord,name,pty,list,region,dis,90-94,94-98,98-02,02-06,06-10,10-14,14-18,comment
+1,Accorsi O. Enrique,ppd,conc,Metropolitana,24,,,0,d24/Metropolitana/ppd,d24/Metropolitana/ppd,d24/Metropolitana/ppd,0,0
+2,Acuña Mario,dc,conc,,,d//dc,d//dc,d//dc,0,0,0,0,0
+3,Aedo O. René,rn,right,Atacama,5,,,0,0,d5/Atacama/rn,0,0,0
+4,Aguiló M. Sergio,ps,conc,Maule,37,d//ps,d//ps,d//ps,d37/Maule/ps,d37/Maule/ps,d37/Maule/ic,d37/Maule/ic,0
+5,Alamos Hugo,rn,right,,,d//rn,,0,0,0,0,0,0
+6,Alessandri Gustavo,rn,right,,,d//rn,,d//rn,0,0,0,0,0
+7,Alinco B. René,ppd,conc,Aysén,59,,,0,0,d59/Aysén/ppd,d59/Aysén/ppd,0,0
+8,Allamand Andrés,rn,right,,,0,d//rn,0,0,0,0,0,0
+9,Allende B. Isabel,ps,conc,Metropolitana,29,0,d//ps,d//ps,d29/Metropolitana/ps,d29/Metropolitana/ps,0,0,0
+10,Alvarado A. Claudio,udi,right,Los Lagos,58,,d//ind,d//udi,d58/Los Lagos/udi,d58/Los Lagos/udi,0,0,cambió part
+11,Alvarez V. Jenny,ps,conc,Los Lagos,58,,,0,0,0,0,d58/Los Lagos/ps,0
+12,Álvarez Z. Rodrigo,udi,right,Magallanes,60,,,d//udi,d60/Magallanes/udi,d60/Magallanes/udi,0,0,0
+13,Alvarez-Salamanca R. Pedro Pablo,udi,right,Maule,38,d//rn,d//rn,d//rn,d38/Maule/rn,0,d38/Maule/udi,d38/Maule/udi,0
+14,Andrade L. Osvaldo,ps,conc,Metropolitana,29,,,0,0,0,d29/Metropolitana/ps,d29/Metropolitana/ps,0
+15,Arancibia Armando,ps,conc,,,d//ps,d//ps,0,0,0,0,0,0
+16,Araya G. Pedro,dc,conc,Antofagasta,4,,,0,d4/Antofagasta/dc,d4/Antofagasta/pri,d4/Antofagasta/pri,0,0
+17,Araya Nicanor,ps,conc,,,d//ps,,0,0,0,0,0,0
+18,Arenas H. Gonzalo,udi,right,La Araucanía,48,,,0,0,d48/La Araucanía/udi,d48/La Araucanía/udi,0,"Muere 98-02, reeplaza Rozas"
+19,Arratia Rafael,dc,conc,,,,,d//dc,0,0,0,0,0
+20,Arriagada M. Claudio,dc,conc,Metropolitana,25,,,0,0,0,0,d25/Metropolitana/dc,0
+21,Ascencio M. Gabriel,dc,conc,Los Lagos,58,,d//dc,d//dc,d58/Los Lagos/dc,d58/Los Lagos/dc,d58/Los Lagos/dc,0,0
+22,Auth S. Pepe,ppd,conc,Metropolitana,20,,,0,0,0,d20/Metropolitana/ppd,d20/Metropolitana/ppd,0
+23,Avila Nelson,ppd,conc,,,,d//ppd,d//ppd,0,0,0,0,0
+24,Aylwin Andrés,dc,conc,,,d//dc,d//dc,0,0,0,0,0,0
+25,Aylwin Mariana,dc,conc,,,0,d//dc,0,0,0,0,0,0
+26,Balbontín Ignacio,dc,conc,,,0,d//dc,0,0,0,0,0,0
+27,Baltolu R. Nino,udi,right,Arica y Parinacota,1,,,0,0,0,d1/Arica y Parinacota/udi,0,0
+28,Barros M. Ramón,udi,right,O´Higgins,35,,,0,d35/O´Higgins/udi,d35/O´Higgins/udi,d35/O´Higgins/udi,d35/O´Higgins/udi,0
+29,Bartolucci Francisco,udi,right,,,d//udi,d//udi,d//udi,0,0,0,0,0
+30,Bauer J. Eugenio,udi,right,O´Higgins,33,,,0,d33/O´Higgins/udi,d33/O´Higgins/udi,d33/O´Higgins/udi,0,0
+31,Bayo V. Francisco,rn,right,La Araucanía,48,d//rn,d//rn,0,d48/La Araucanía/rn,0,0,0,0
+32,Becker A. Germán,rn,right,La Araucanía,50,,,0,d50/La Araucanía/rn,d50/La Araucanía/rn,d50/La Araucanía/rn,d50/La Araucanía/rn,0
+33,Bellolio A. Jaime,udi,right,Metropolitana,30,,,0,0,0,0,d30/Metropolitana/udi,0
+34,Berger F. Bernardo,rn,right,Los Ríos,53,,,0,0,0,0,d53/Los Ríos/rn,0
+35,Bertolino R. Mario,rn,right,Coquimbo,7,,,d//rn,d7/Coquimbo/rn,d7/Coquimbo/rn,d7/Coquimbo/rn,0,0
+36,Bobadilla M. Sergio,udi,right,Bío-Bío,45,,,0,0,d45/Bío-Bío/udi,d45/Bío-Bío/udi,0,0
+37,Bombal Carlos,udi,right,,,d//udi,d//udi,0,0,0,0,0,0
+38,Boric F. Gabriel,ind,,Magallanes,60,,,0,0,0,0,d60/Magallanes/ind,0
+39,Bosselin Hernán,dc,conc,,,d//dc,,0,0,0,0,0,0
+40,Browne U. Pedro,rn,right,Metropolitana,28,,,0,0,0,d28/Metropolitana/rn,d28/Metropolitana/ind,0
+41,Burgos V. Jorge,dc,conc,Metropolitana,21,,,0,d21/Metropolitana/dc,d21/Metropolitana/dc,d21/Metropolitana/dc,0,0
+42,Bustos Manuel,dc,conc,,,,,d//dc,0,0,0,0,0
+43,Bustos R. Juan,ps,conc,Valparaíso,12,,,d//ps,d12/Valparaíso/ps,0,0,0,0
+44,Calderón B. Giovanni,udi,right,Atacama,6,,,0,0,0,d6/Atacama/udi,0,0
+45,Caminondo Carlos,rn,right,,,d//rn,d//rn,d//rn,0,0,0,0,0
+46,Campos J. Cristián,ppd,conc,Bío-Bío,43,,,0,0,0,d43/Bío-Bío/ppd,d43/Bío-Bío/ppd,0
+47,Campos Jaime,pr,conc,,,d//pr,,0,0,0,0,0,0
+48,Cantero Carlos,rn,right,,,d//rn,d//rn,0,0,0,0,0,0
+49,Caraball M. Eliana,dc,conc,Metropolitana,27,d//dc,,d//dc,d27/Metropolitana/dc,0,0,0,0
+50,Cardemil Gustavo,dc,conc,,,d//dc,,0,0,0,0,0,0
+51,Cardemil H. Alberto,rn,right,Metropolitana,22,,d//rn,d//rn,d22/Metropolitana/rn,d22/Metropolitana/rn,d22/Metropolitana/rn,0,0
+52,Cariola O. Karol,pcch,conc,Metropolitana,19,,,0,0,0,0,d19/Metropolitana/pcch,0
+53,Carmona S. Lautaro,pcch,conc,Atacama,5,,,0,0,0,d5/Atacama/pcch,d5/Atacama/pcch,0
+54,Carrasco Baldemar,dc,conc,,,d//dc,,0,0,0,0,0,0
+55,Carvajal A. Loreto,ppd,conc,Bío-Bío,42,,,0,0,0,0,d42/Bío-Bío/ppd,0
+56,Castro G. Juan Luis,ps,conc,O´Higgins,32,,,0,0,0,d32/O´Higgins/ps,d32/O´Higgins/ps,0
+57,Cerda G. Eduardo,dc,conc,Valparaíso,10,d//dc,,0,0,0,d10/Valparaíso/dc,0,0
+58,Ceroni F. Guillermo,ppd,conc,Maule,40,,d//ppd,d//ppd,d40/Maule/ppd,d40/Maule/ppd,d40/Maule/ppd,d40/Maule/ppd,0
+59,Chadwick Andrés,udi,right,,,d//udi,d//udi,0,0,0,0,0,0
+60,Chahin V. Fuad,dc,conc,La Araucanía,49,,,0,0,0,d49/La Araucanía/dc,d49/La Araucanía/dc,0
+61,Chahuán C. Francisco,rn,right,Valparaíso,14,,,0,0,d14/Valparaíso/rn,0,0,0
+62,Chávez V. Marcelo,dc,conc,Bío-Bío,45,,,0,0,0,0,d45/Bío-Bío/dc,0
+63,Cicardini M. Daniella,ps,conc,Atacama,5,,,0,0,0,0,d5/Atacama/ps,0
+64,Coloma A. Juan Antonio,udi,right,Metropolitana,31,d//udi,d//udi,d//udi,0,0,0,d31/Metropolitana/udi,0
+65,Concha Juan,dc,conc,,,d//dc,,0,0,0,0,0,0
+66,Cornejo G. Aldo,dc,conc,Valparaíso,13,d//dc,d//dc,d//dc,0,0,d13/Valparaíso/dc,d13/Valparaíso/dc,0
+67,Cornejo V. Patricio,dc,conc,Valparaíso,11,,,d//dc,d11/Valparaíso/dc,0,0,0,0
+68,Correa D. Sergio,udi,right,Maule,36,d//udi,d//udi,d//udi,d36/Maule/udi,d36/Maule/udi,0,0,0
+69,Cristi M. María Angélica,rn,right,Metropolitana,24,d//rn,d//rn,d//rn,d24/Metropolitana/rn,d24/Metropolitana/udi,d24/Metropolitana/udi,0,0
+70,Cubillos S. Marcela,udi,right,Metropolitana,21,,,0,d21/Metropolitana/udi,d21/Metropolitana/udi,0,0,0
+71,de la Maza Iván,dc,conc,,,0,d//dc,0,0,0,0,0,0
+72,De Mussy H. Felipe,udi,right,Los Lagos,56,,,0,0,0,0,d56/Los Lagos/udi,0
+73,De Urresti L. Alfonso,ps,conc,Los Lagos,53,,,0,0,d53/Los Lagos/ps,d53/Los Lagos/ps,0,0
+74,Delmastro N. Roberto,ind-rn,right,Los Lagos,53,,,d//ind-rn,d53/Los Lagos/ind-rn,d53/Los Lagos/ind-rn,d53/Los Lagos/ind-rn,0,0
+75,Devaud Mario,pr,conc,,,d//pr,,0,0,0,0,0,Reemplazó a la fallecida Diputada Laura Rodríguez
+76,Díaz D. Eduardo,udi,right,La Araucanía,51,,,d//udi,d51/La Araucanía/udi,d51/La Araucanía/pri,0,0,0
+77,Díaz D. Marcelo,ps,conc,Coquimbo,7,,,0,0,d7/Coquimbo/ps,d7/Coquimbo/ps,0,0
+78,Dittborn C. Julio,udi,right,Metropolitana,23,,,d//udi,d23/Metropolitana/udi,d23/Metropolitana/udi,0,0,0
+79,Duarte L. Gonzalo,dc,conc,Metropolitana,26,,,0,0,d26/Metropolitana/dc,0,0,0
+80,Dupré Carlos,dc,conc,,,d//dc,d//dc,0,0,0,0,0,0
+81,Edwards S. José Manuel,rn,right,La Araucanía,51,,,0,0,0,d51/La Araucanía/rn,d51/La Araucanía/rn,0
+82,Egaña R. Andrés,udi,right,Bío-Bío,44,,,0,d44/Bío-Bío/udi,d44/Bío-Bío/udi,0,0,0
+83,Elgueta Sergio,dc,conc,,,d//dc,d//dc,d//dc,0,0,0,0,0
+84,Elizalde Ramón,dc,conc,,,d//dc,d//dc,0,0,0,0,0,0
+85,Eluchans U. Edmundo,udi,right,Valparaíso,15,,,0,0,d15/Valparaíso/udi,d14/Valparaíso/udi,0,0
+86,Encina M. Francisco,ps,conc,Coquimbo,8,0,d//ps,d//ps,d8/Coquimbo/ps,d8/Coquimbo/ps,0,0,0
+87,Enríquez-Ominami G. Marco,ps,conc,Valparaíso,10,,,0,0,d10/Valparaíso/ps,0,0,0
+88,Errázuriz E. Maximiano,rn,right,Metropolitana,29,,d//rn,d//rn,d29/Metropolitana/rn,d29/Metropolitana/rn,0,0,0
+89,Escalona M. Camilo,ps,conc,Bío-Bío,46,d//ps,d//ps,0,d46/Bío-Bío/ps,0,0,0,0
+90,Escobar R. Alvaro,ind-ppd,conc,Metropolitana,20,,,0,0,d20/Metropolitana/ind,0,0,0
+91,Escobar U. Mario,udi,right,Antofagasta,3,,,0,d3/Antofagasta/udi,0,0,0,0
+92,Espejo Y. Sergio,dc,conc,O´Higgins,35,,,0,0,0,0,d35/O´Higgins/dc,0
+93,Espina Alberto,rn,right,,,d//rn,d//rn,d//rn,0,0,0,0,0
+94,Espinosa M. Marcos,prsd,conc,Antofagasta,3,,,0,0,d3/Antofagasta/prsd,d3/Antofagasta/prsd,d3/Antofagasta/prsd,0
+95,Espinoza S. Fidel,ps,conc,Los Lagos,56,,,0,d56/Los Lagos/ps,d56/Los Lagos/ps,d56/Los Lagos/ps,d56/Los Lagos/ps,0
+96,Estay P. Enrique,udi,right,La Araucanía,49,,,0,0,d49/La Araucanía/udi,d49/La Araucanía/udi,0,0
+97,Estévez Jaime,ps,conc,,,d//ps,d//ps,0,0,0,0,0,0
+98,Fantuzzi Angel,rn,right,,,d//rn,d//rn,0,0,0,0,0,0
+99,Farcas G. Daniel,ppd,conc,Metropolitana,17,,,0,0,0,0,d17/Metropolitana/ppd,0
+100,Farías P. Ramón,ppd,conc,Metropolitana,30,,,0,0,d30/Metropolitana/ppd,d30/Metropolitana/ppd,d25/Metropolitana/ppd,0
+101,Faulbaum Dionisio,pr,conc,,,d//pr,,0,0,0,0,0,0
+102,Fernández A. Maya,ps,conc,Metropolitana,21,,,0,0,0,0,d21/Metropolitana/ps,0
+103,Ferrada Valentín,rn,right,,,0,d//rn,0,0,0,0,0,0
+104,Flores G. Iván,dc,conc,Los Ríos,53,,,0,0,0,0,d53/Los Ríos/dc,0
+105,Forni L. Marcelo,udi,right,Valparaíso,11,,,0,d11/Valparaíso/udi,d11/Valparaíso/udi,0,0,0
+106,Fossa Haroldo,rn,right,,,,,d//rn,0,0,0,0,0
+107,Fuentealba V. Renán,dc,conc,Coquimbo,9,,d//dc,0,0,d9/Coquimbo/dc,0,0,0
+108,Fuentes C. Iván,ind-dc,conc,Aysén,59,,,0,0,0,0,d59/Aysén/ind-dc,0
+109,Fuenzalida F. Gonzalo,rn,right,Los Ríos,54,,,0,0,0,0,d54/Los Ríos/rn,0
+110,Gahona S. Sergio,udi,right,Coquimbo,7,,,0,0,0,0,d7/Coquimbo/udi,0
+111,Gajardo Rubén,dc,conc,,,d//dc,d//dc,0,0,0,0,0,0
+112,Galilea C. Pablo,rn,right,Aysén,59,,,d//rn,d59/Aysén/rn,d59/Aysén/rn,0,0,0
+113,Galilea V. José Antonio,rn,right,La Araucanía,49,d//rn,d//rn,d//rn,d49/La Araucanía/rn,0,0,0,0
+114,García G. René Manuel,rn,right,La Araucanía,52,,,0,d52/La Araucanía/rn,d52/La Araucanía/rn,d52/La Araucanía/rn,d52/La Araucanía/rn,0
+115,García José,rn,right,,,d//rn,d//rn,d//rn,0,0,0,0,0
+116,García René,rn,right,,,d//rn,d//rn,d//rn,0,0,0,0,0
+117,García-Huidobro S. Alejandro,udi,right,O´Higgins,32,,d//ucc,d//uccp,d32/O´Higgins/udi,d32/O´Higgins/udi,0,0,0
+118,Girardi B. Guido,ppd,conc,Metropolitana,18,,d//ppd,d//ppd,0,d18/Metropolitana/ppd,0,0,0
+119,Girardi L. Cristina,ppd,conc,Metropolitana,18,,,0,0,0,d18/Metropolitana/ppd,d18/Metropolitana/ppd,0
+120,Girardi L. Guido,ppd,conc,Metropolitana,18,,,0,d18/Metropolitana/ppd,0,0,0,0
+121,Godoy I. Joaquín,rn,right,Valparaíso,13,,,0,0,d13/Valparaíso/rn,d13/Valparaíso/rn,d13/Valparaíso/ind,0
+122,Goic B. Carolina,dc,conc,Magallanes,60,,,0,0,d60/Magallanes/dc,d60/Magallanes/dc,0,0
+123,González Jose L.,ppd,conc,,,0,d//ppd,0,0,0,0,0,0
+124,González R. Rosa,udi,right,Tarapacá,1,,,d//ind-udi,d1/Tarapacá/udi,0,0,0,0
+125,González T. Rodrigo,ppd,conc,Valparaíso,14,,,0,d14/Valparaíso/ppd,d14/Valparaíso/ppd,d14/Valparaíso/ppd,d14/Valparaíso/ppd,0
+126,Gutiérrez G. Hugo,pcch,conc,Tarapacá,2,,,0,0,0,d2/Tarapacá/pcch,d2/Tarapacá/pcch,0
+127,Gutierrez Homero,dc,conc,,,,d//dc,d//dc,0,0,0,0,0
+128,Gutiérrez P. Romilio,udi,right,Maule,39,,,0,0,0,d39/Maule/udi,d39/Maule/udi,"Muere 90-94, reeplaza Manterola"
+129,Guzmán M. María Pía,rn,right,Metropolitana,23,,,d//rn,d23/Metropolitana/rn,0,0,0,0
+130,Guzmán Pedro,udi,right,,,d//udi,,0,0,0,0,0,0
+131,Hales D. Patricio,ppd,conc,Metropolitana,19,,,d//ppd,d19/Metropolitana/ppd,d19/Metropolitana/ppd,d19/Metropolitana/ppd,0,Reemplazó al fallecido Diputado Manuel Busto 98-02
+132,Hamuy Mario,dc,conc,,,d//dc,d//dc,0,0,0,0,0,0
+133,Harboe B. Felipe,ppd,conc,Metropolitana,22,,,0,0,d22/Metropolitana/ppd,d22/Metropolitana/ppd,0,0
+134,Hasbún S. Gustavo,udi,right,Metropolitana,26,,,0,0,0,d26/Metropolitana/udi,d26/Metropolitana/udi,0
+135,Hernández H. Javier,udi,right,Los Lagos,55,,,0,d55/Los Lagos/udi,d55/Los Lagos/udi,d55/Los Lagos/udi,d55/Los Lagos/udi,0
+136,Hernández Miguel,dc,conc,,,,d//dc,d//dc,0,0,0,0,0
+137,Hernando P. Marcela,prsd,conc,Antofagasta,4,,,0,0,0,0,d4/Antofagasta/prsd,0
+138,Herrera S. Amelia,rn,right,Valparaíso,12,,,0,0,d12/Valparaíso/rn,0,0,0
+139,Hidalgo G. Carlos,ind-rn,right,Valparaíso,15,,,0,d15/Valparaíso/ind-rn,0,0,0,0
+140,Hoffmann O. María José,udi,right,Valparaíso,15,,,0,0,0,d15/Valparaíso/udi,d15/Valparaíso/udi,0
+141,Horvath Antonio,ind,right,,,d//ind,,0,0,0,0,0,0
+142,Huenchu-milla Francisco,dc,conc,,,d//dc,d//dc,d//dc,0,0,0,0,0
+143,Huepe Claudio,dc,conc,,,d//dc,,0,0,0,0,0,0
+144,Hurtado José M.,rn,right,,,d//rn,d//rn,0,0,0,0,0,0
+145,Ibáñez S. Carmen,rn,right,Valparaíso,13,,,0,d13/Valparaíso/rn,0,0,0,0
+146,Ibáñez S. Gonzalo,ind-udi,right,Valparaíso,14,,,d//ind-udi,d14/Valparaíso/ind-udi,0,0,0,0
+147,Insunza G. Jorge,ppd,conc,Metropolitana,28,,,0,0,d28/Metropolitana/ppd,0,d9/Coquimbo/ppd,0
+148,Isasi B. Marta,ind-udi,right,Tarapacá,2,,,0,0,d2/Tarapacá/ind-udi,d2/Tarapacá/ind-udi,0,0
+149,Jackson D. Giorgio,ind,,Metropolitana,22,,,0,0,0,0,d22/Metropolitana/ind,0
+150,Jara Octavio,ppd,conc,,,d//ppd,d//ppd,0,0,0,0,0,0
+151,Jara Sergio,dc,conc,,,d//dc,,0,0,0,0,0,0
+152,Jaramillo B. Enrique,ppd,conc,Los Lagos,54,,,d//ppd,d54/Los Lagos/ppd,d54/Los Lagos/ppd,d54/Los Lagos/ppd,d54/Los Lagos/ppd,0
+153,Jarpa W. Carlos Abel,prsd,conc,Bío-Bío,41,,,d//prsd,d41/Bío-Bío/prsd,d41/Bío-Bío/prsd,d41/Bío-Bío/prsd,d41/Bío-Bío/prsd,0
+154,Jeame B. Víctor,ppd,conc,Bío-Bío,43,d//ppd,d//ppd,d//ppd,d43/Bío-Bío/ppd,0,0,0,0
+155,Jiménez F. Tucapel,ppd,conc,Metropolitana,27,,,0,0,d27/Metropolitana/ppd,d27/Metropolitana/ppd,d27/Metropolitana/ppd,0
+156,Jiménez V. Jaime,dc,conc,Metropolitana,31,,,d//dc,d31/Metropolitana/dc,0,0,0,0
+157,Jocelyn-Holt Tomás,dc,conc,,,,d//dc,d//dc,0,0,0,0,0
+158,Jofré N. Néstor,rn,right,Tarapacá,2,,,0,d2/Tarapacá/rn,0,0,0,cambió part
+159,Jürgensen Harry,rn,right,,,0,d//rn,0,0,0,0,0,0
+160,Karelovic Vicente,ind,right,,,0,d//ind,0,0,0,0,0,0
+161,Kast R. José Antonio,udi,right,Metropolitana,30,,,0,d30/Metropolitana/udi,d30/Metropolitana/udi,d30/Metropolitana/udi,d24/Metropolitana/udi,0
+162,Kast S. Felipe,ind,,Metropolitana,22,,,0,0,0,0,d22/Metropolitana/ind,0
+163,Kort G. Issa,udi,right,O´Higgins,32,,,0,0,0,d32/O´Higgins/udi,d32/O´Higgins/udi,0
+164,Krauss Enrique,dc,conc,,,,,d//dc,0,0,0,0,0
+165,Kuschel S. Carlos Ignacio,rn,right,Los Lagos,57,d//rn,d//rn,d//rn,d57/Los Lagos/rn,0,0,0,0
+166,Kuzmicic Vladislav,ps,conc,,,d//ps,,0,0,0,0,0,0
+167,Lagos H. Eduardo,prsd,conc,Los Lagos,57,,,0,d57/Los Lagos/prsd,0,0,0,0
+168,Latorre C. Juan Carlos,dc,conc,O´Higgins,35,,,0,0,d35/O´Higgins/dc,d35/O´Higgins/dc,0,0
+169,Latorre Juan C.,dc,conc,,,d//dc,d//dc,0,0,0,0,0,0
+170,Lavín L. Joaquín,udi,right,Metropolitana,20,,,0,0,0,0,d20/Metropolitana/udi,0
+171,Leal L. Antonio,ppd,conc,Atacama,5,,,d//ppd,d5/Atacama/ppd,d5/Atacama/ppd,0,0,0
+172,Leay M. Cristián,udi,right,Metropolitana,19,d//udi,d//udi,d//udi,d19/Metropolitana/udi,0,0,0,"Cambió part; muere, lo remplaza Néstor Jofré 02-06"
+173,Leblanc Luis,dc,conc,,,d//dc,,0,0,0,0,0,0
+174,Lemus A. Luis,ps,conc,Coquimbo,9,,,0,0,0,d9/Coquimbo/ps,d9/Coquimbo/ps,0
+175,León R. Roberto,dc,conc,Maule,36,,d//dc,d//dc,0,d36/Maule/dc,d36/Maule/dc,d36/Maule/dc,0
+176,Letelier A. Cristian,ind,right,Metropolitana,31,,,0,0,0,d31/Metropolitana/ind,0,0
+177,Letelier Felipe,ppd,conc,,,,d//ppd,d//ppd,0,0,0,0,0
+178,Letelier M. Juan Pablo,ps,conc,O´Higgins,33,d//ps,d//ps,d//ps,d33/O´Higgins/ps,0,0,0,0
+179,Letelier N. Felipe,ppd,conc,Bío-Bío,42,,,0,d42/Bío-Bío/ppd,0,0,d33/O´Higgins/ppd,0
+180,Lobos K. Juan,udi,right,Bío-Bío,47,,,0,0,d47/Bío-Bío/udi,0,0,0
+181,Longton G. Arturo,rn,right,Valparaíso,12,d//rn,d//rn,d//rn,d12/Valparaíso/rn,0,0,0,0
+182,Longueira M. Pablo,udi,right,Metropolitana,17,d//udi,d//udi,d//udi,d17/Metropolitana/udi,0,0,0,0
+183,Lorenzini B. Pablo,dc,conc,Maule,38,,,d//dc,d38/Maule/dc,d38/Maule/dc,d38/Maule/dc,d38/Maule/dc,0
+184,Luksic S. Zarko,dc,conc,Metropolitana,16,,d//dc,d//dc,d16/Metropolitana/dc,0,0,0,0
+185,Macaya D. Javier,udi,right,O´Higgins,34,,,0,0,0,d34/O´Higgins/udi,d34/O´Higgins/udi,0
+186,Makluf José,dc,conc,,,0,d//dc,0,0,0,0,0,0
+187,Maluenda María,ppd,conc,,,d//ppd,,0,0,0,0,0,0
+188,Manterola Martín,sd,conc,,,d//sd,,0,0,0,0,0,0
+189,Marinovic S. Miodrag,ind,regionalista?,Magallanes,60,,,0,0,0,d60/Magallanes/ind,0,cambió dist
+190,Martínez Gutemberg,dc,conc,,,d//dc,d//dc,d//dc,0,0,0,0,0
+191,Martinez Juan,ps,conc,,,d//ps,,0,0,0,0,0,0
+192,Martínez L. Rosauro,ind-rn,right,Bío-Bío,41,,d//ind-rn,d//ind-rn,d41/Bío-Bío/ind-rn,d41/Bío-Bío/ind-rn,d41/Bío-Bío/ind-rn,d41/Bío-Bío/ind-rn,0
+193,Masferrer P. Juan,udi,right,O´Higgins,34,d//udi,d//udi,d//udi,d34/O´Higgins/udi,d34/O´Higgins/udi,0,0,0
+194,Matta. Manuel A.,dc,conc,,,d//dc,,0,0,0,0,0,0
+195,Matthei Evelyn,ind,right,,,d//ind,d//ind,0,0,0,0,0,0
+196,Mekis Federico,rn,right,,,d//rn,,0,0,0,0,0,0
+197,Melero A. Patricio,udi,right,Metropolitana,16,d//udi,d//udi,d//udi,d16/Metropolitana/udi,d16/Metropolitana/udi,d16/Metropolitana/udi,d16/Metropolitana/udi,0
+198,Mella G. María Eugenia,dc,conc,Valparaíso,10,,,0,d10/Valparaíso/dc,0,0,0,0
+199,Melo C. Daniel,ps,conc,Metropolitana,27,,,0,0,0,0,d27/Metropolitana/ps,0
+200,Mesías Iván,prsd,conc,,,,,d//prsd,0,0,0,0,0
+201,Meza M. Fernando,prsd,conc,La Araucanía,52,,,0,d52/La Araucanía/prsd,d52/La Araucanía/prsd,d52/La Araucanía/prsd,d52/La Araucanía/prsd,0
+202,Mirosevic V. Vlado,pl,conc,Arica y Parinacota,1,,,0,0,0,0,d1/Arica y Parinacota/pl,0
+203,Molina Jorge,ppd,conc,,,d//ppd,,0,0,0,0,0,0
+204,Molina O. Andrea,udi,right,Valparaíso,10,,,0,0,0,d10/Valparaíso/udi,d10/Valparaíso/udi,0
+205,Molina S. Darío,udi,right,Coquimbo,9,,,d//udi,d9/Coquimbo/udi,0,0,0,0
+206,Monckeberg B. Cristián,rn,right,Metropolitana,23,,,0,0,d23/Metropolitana/rn,d23/Metropolitana/rn,d23/Metropolitana/rn,0
+207,Monckeberg D. Nicolás,rn,right,Bío-Bío,42,,,0,d42/Bío-Bío/rn,d42/Bío-Bío/rn,d18/Metropolitana/rn,d18/Metropolitana/rn,0
+208,Monge Luis,udi,right,,,,,d//udi,0,0,0,0,0
+209,Monsalve B. Manuel,ps,conc,Bío-Bío,46,,,0,0,d46/Bío-Bío/ps,d46/Bío-Bío/ps,d46/Bío-Bío/ps,0
+210,Montes C. Carlos,ps,conc,Metropolitana,26,d//ps,d//ps,d//ps,d26/Metropolitana/ps,d26/Metropolitana/ps,d26/Metropolitana/ps,0,0
+211,Mora L. Waldo,dc,conc,Antofagasta,3,,,d//dc,d3/Antofagasta/dc,0,0,0,0
+212,Morales Jorge,rn,right,,,d//rn,,0,0,0,0,0,0
+213,Morales M. Celso,udi,right,Maule,36,,,0,0,0,d36/Maule/udi,d36/Maule/udi,cambió part
+214,Morales Sergio,pr,conc,,,0,d//pr,0,0,0,0,0,0
+215,Morano C. Juan Enrique,dc,conc,Magallanes,60,,,0,0,0,0,d60/Magallanes/dc,0
+216,Moreira B. Iván,udi,right,Metropolitana,27,0,d//udi,d//udi,d27/Metropolitana/udi,d27/Metropolitana/udi,d27/Metropolitana/udi,0,0
+217,Mulet M. Jaime,dc,conc,Atacama,6,,,d//dc,d6/Atacama/dc,d6/Atacama/dc,0,0,0
+218,Munizaga Eugenio,rn,right,,,d//rn,d//rn,0,0,0,0,0,0
+219,Muñoz A. Pedro,ps,conc,Magallanes,60,,d//ps,d//ps,d60/Magallanes/ps,0,0,0,0
+220,Muñoz D. Adriana,ppd,conc,Coquimbo,9,d//ps,,d//ppd,d9/Coquimbo/ppd,d9/Coquimbo/ppd,d9/Coquimbo/ppd,0,0
+221,Muñoz Roberto,ppd,conc,,,d//ppd,,0,0,0,0,0,0
+222,Naranjo Jaime,ps,conc,,,d//ps,d//ps,d//ps,0,0,0,0,0
+223,Navarrete Luis,rn,right,,,d//rn,,0,0,0,0,0,cambió dist
+224,Navarro B. Alejandro,ps,conc,Bío-Bío,45,,d//ps,d//ps,d45/Bío-Bío/ps,0,0,0,0
+225,Nogueira F. Claudia,udi,right,Metropolitana,19,,,0,0,d19/Metropolitana/udi,d19/Metropolitana/udi,d19/Metropolitana/udi,0
+226,Norambuena F. Iván,udi,right,Bío-Bío,46,,,0,d46/Bío-Bío/udi,d46/Bío-Bío/udi,d46/Bío-Bío/udi,d46/Bío-Bío/udi,0
+227,Núñez A. Daniel,pcch,conc,Coquimbo,8,,,0,0,0,0,d8/Coquimbo/pcch,0
+228,Núñez Juan,dc,conc,,,,,d//dc,0,0,0,0,0
+229,Núñez L. Marco Antonio,ppd,conc,Valparaíso,11,,,0,0,d11/Valparaíso/ppd,d11/Valparaíso/ppd,d11/Valparaíso/ppd,cambió part
+230,Núñez U. Paulina,rn,right,Antofagasta,4,,,0,0,0,0,d4/Antofagasta/rn,0
+231,Ojeda U. Sergio,dc,conc,Los Lagos,55,d//dc,d//dc,d//dc,d55/Los Lagos/dc,d55/Los Lagos/dc,d55/Los Lagos/dc,d55/Los Lagos/dc,0
+232,Olivares Héctor,ps,conc,,,d//ps,,0,0,0,0,0,0
+233,Olivares Z. Carlos,dc,conc,Metropolitana,18,,,d//dc,d18/Metropolitana/dc,d18/Metropolitana/dc,0,0,cambió dist
+234,Orpis Jaime,udi,right,,,d//udi,d//udi,d//udi,0,0,0,0,0
+235,Ortega Eugenio,dc,conc,,,d//dc,,0,0,0,0,0,0
+236,Ortiz N. José Miguel,dc,conc,Bío-Bío,44,d//dc,d//dc,d//dc,d44/Bío-Bío/dc,d44/Bío-Bío/dc,d44/Bío-Bío/dc,d44/Bío-Bío/dc,0
+237,Ovalle María V.,uccp,right,,,,,d//uccp,0,0,0,0,0
+238,Pacheco R. Clemira,ps,conc,Bío-Bío,45,,,0,0,d45/Bío-Bío/ps,d45/Bío-Bío/ps,d45/Bío-Bío/ps,0
+239,Palestro Mario,ps,conc,,,d//ps,,0,0,0,0,0,0
+240,Palma Andrés,dc,conc,,,d//dc,d//dc,d//dc,0,0,0,0,0
+241,Palma F. Osvaldo,rn,right,Maule,39,,,0,d39/Maule/rn,d39/Maule/rn,0,0,0
+242,Palma Joaquín,dc,conc,,,d//dc,d//dc,d//dc,0,0,0,0,0
+243,Palma Osvaldo,rn,right,,,,,d//rn,0,0,0,0,cambió part
+244,Paredes F. Iván,ps,conc,Tarapacá,1,,,0,d1/Tarapacá/ps,d1/Tarapacá/ps,0,0,0
+245,Pareto Luis,dc,conc,,,,,d//dc,0,0,0,0,0
+246,Pareto V. Cristián,dc,conc,Metropolitana,20,,,0,d20/Metropolitana/dc,0,0,0,0
+247,Pascal A. Denise,ps,conc,Metropolitana,31,,,0,0,d31/Metropolitana/ps,d31/Metropolitana/ps,d31/Metropolitana/ps,0
+248,Paulsen K. Diego,rn,right,La Araucanía,49,,,0,0,0,0,d49/La Araucanía/rn,0
+249,Paya M. Darío,udi,right,Metropolitana,28,,d//udi,d//udi,d28/Metropolitana/udi,d28/Metropolitana/udi,0,0,0
+250,Peña José,pr,conc,,,d//pr,,0,0,0,0,0,0
+251,Pérez A. José,prsd,conc,Bío-Bío,47,,,0,d47/Bío-Bío/prsd,d47/Bío-Bío/prsd,d47/Bío-Bío/prsd,d47/Bío-Bío/prsd,0
+252,Pérez José,prsd,conc,,,,,d//prsd,0,0,0,0,0
+253,Pérez Juan A.,rn,right,,,d//rn,,0,0,0,0,0,0
+254,Pérez L. Aníbal,ppd,conc,O´Higgins,35,0,d//ps,d//ppd,d35/O´Higgins/ppd,0,0,0,cambió part
+255,Pérez L. Leopoldo,rn,right,Metropolitana,29,,,0,0,0,d29/Metropolitana/rn,d29/Metropolitana/rn,0
+256,Pérez O. Ramón,ind-udi,right,Tarapacá,2,d//rn,d//rn,0,d2/Tarapacá/ind-udi,0,0,0,cambió part
+257,Pérez S. Lily,rn,right,Metropolitana,26,,,d//rn,d26/Metropolitana/rn,d38/Maule/rn,0,0,0
+258,Pérez V. Víctor,udi,right,Bío-Bío,47,d//udi,d//udi,d//udi,d47/Bío-Bío/udi,0,0,0,0
+259,Pilowsky G. Jaime,dc,conc,Metropolitana,24,,,0,0,0,0,d24/Metropolitana/dc,0
+260,Pizarro Jorge,dc,conc,,,d//dc,d//dc,0,0,0,0,0,cambió part
+261,Pizarro Sergio,dc,conc,,,d//dc,,0,0,0,0,0,0
+262,Poblete Z. Roberto,ind-ps,conc,Bío-Bío,47,,,0,0,0,0,d47/Bío-Bío/ind-ps,cambió dist
+263,Pollarolo Fanny,ps,conc,,,,d//ps,d//ps,0,0,0,0,0
+264,Prieto L. Pablo,ind-udi,right,Maule,37,,,0,d37/Maule/ind-udi,0,0,0,0
+265,Prochelle Marina,rn,right,,,d//rn,d//rn,d//rn,0,0,0,0,0
+266,Prokurica Baldo,rn,right,,,d//rn,d//rn,d//rn,0,0,0,0,0
+267,Provoste C. Yasna,dc,conc,Atacama,6,,,0,0,0,0,d6/Atacama/dc,0
+268,Quintana L. Jaime,ppd,conc,La Araucanía,49,,,0,d49/La Araucanía/ppd,d49/La Araucanía/ppd,0,0,0
+269,Ramírez Gustavo,dc,conc,,,d//dc,,0,0,0,0,0,0
+270,Rathgeb S. Jorge,rn,right,La Araucanía,48,,,0,0,0,0,d48/La Araucanía/rn,cambió dist
+271,Rebolledo G. Víctor Manuel,ppd,conc,Coquimbo,7,d//ppd,,0,d7/Coquimbo/ppd,0,0,0,0
+272,Rebolledo Romy,ppd,conc,,,0,d//ppd,0,0,0,0,0,0
+273,Recondo L. Carlos,udi,right,Los Lagos,56,d//udi,,d//udi,d56/Los Lagos/udi,d56/Los Lagos/udi,d56/Los Lagos/udi,0,0
+274,Reyes Víctor,dc,conc,,,d//dc,d//dc,d//dc,0,0,0,0,0
+275,Ribera Teodoro,rn,right,,,d//rn,d//rn,0,0,0,0,0,0
+276,Rincón G. Ricardo,dc,conc,O´Higgins,33,,,d//dc,0,0,d33/O´Higgins/dc,d33/O´Higgins/dc,0
+277,Ringeling Federico,rn,right,,,d//rn,,0,0,0,0,0,0
+278,Rivas S. Gaspar,rn,right,Valparaíso,11,,,0,0,0,d11/Valparaíso/rn,d11/Valparaíso/ind,0
+279,Riveros M. Edgardo,dc,conc,Metropolitana,30,,,d//dc,d30/Metropolitana/dc,0,0,0,0
+280,Robles P. Alberto,prsd,conc,Atacama,6,,,0,d6/Atacama/prsd,d6/Atacama/prsd,d6/Atacama/prsd,d6/Atacama/prsd,0
+281,Rocafull L. Luis,ps,conc,Arica y Parinacota,1,,,0,0,0,0,d1/Arica y Parinacota/ps,0
+282,Rocha Jaime,prsd,conc,,,d//pr,d//pr,d//prsd,0,0,0,0,0
+283,Rodríguez Alfonso,rn,right,,,d//rn,,0,0,0,0,0,0
+284,Rodríguez Claudio,rn,right,,,d//rn,d//rn,0,0,0,0,0,0
+285,Rodríguez Hugo,dc,conc,,,d//dc,,0,0,0,0,0,cambió part
+286,Rodríguez Laura,ph,conc,,,d//ph,,0,0,0,0,0,0
+287,Rojas M. Manuel,udi,right,Antofagasta,4,,,d//udi,d4/Antofagasta/udi,d4/Antofagasta/udi,d4/Antofagasta/udi,0,0
+288,Rojo Hernán,dc,conc,,,d//dc,,0,0,0,0,0,0
+289,Rojos Julio,dc,conc,,,d//dc,,0,0,0,0,0,0
+290,Rosales G. Joel,udi,right,Bío-Bío,47,,,0,0,0,d47/Bío-Bío/udi,0,0
+291,Rossi C. Fulvio,ps,conc,Tarapacá,2,,,0,d2/Tarapacá/ps,d2/Tarapacá/ps,0,0,0
+292,Rozas María,dc,conc,,,,,d//dc,0,0,0,0,0
+293,Rubilar B. Karla,rn,right,Metropolitana,17,,,0,0,d17/Metropolitana/rn,d17/Metropolitana/rn,d17/Metropolitana/rn,cambió part
+294,Saa D. María Antonieta,ppd,conc,Metropolitana,17,0,d//ppd,d//ppd,d17/Metropolitana/ppd,d17/Metropolitana/ppd,d17/Metropolitana/ppd,0,0
+295,Sabag Hosain,dc,conc,,,d//dc,d//dc,0,0,0,0,0,0
+296,Sabag V. Jorge,dc,conc,Bío-Bío,42,,,0,0,d42/Bío-Bío/dc,d42/Bío-Bío/dc,d42/Bío-Bío/dc,0
+297,Sabat F. Marcela,rn,right,Metropolitana,21,,,0,0,0,d21/Metropolitana/rn,d21/Metropolitana/rn,0
+298,Saffirio E. René,dc,conc,La Araucanía,50,,,0,0,0,d50/La Araucanía/dc,d50/La Araucanía/dc,cambió dist
+299,Saffirio S. Eduardo,dc,conc,La Araucanía,50,,,0,d50/La Araucanía/dc,d50/La Araucanía/dc,0,0,cambió dist
+300,Salaberry S. Felipe,udi,right,Metropolitana,25,,,0,d25/Metropolitana/udi,d25/Metropolitana/udi,d25/Metropolitana/udi,0,Reemplazó a Gonzalo Uriarte Herrera 10-14
+301,Salas D. Edmundo,dc,conc,Bío-Bío,45,d//dc,d//dc,d//dc,d45/Bío-Bío/dc,0,0,0,0
+302,Saldívar A. Raúl,ps,conc,Coquimbo,7,,,0,0,0,0,d7/Coquimbo/ps,0
+303,Sánchez G. Leopoldo,ppd,conc,Aysén,59,,,d//ppd,d59/Aysén/ppd,0,0,0,0
+304,Sandoval P. David,udi,right,Aysén,59,,,0,0,0,d59/Aysén/udi,d59/Aysén/udi,0
+305,Santana T. Alejandro,rn,right,Los Lagos,58,,,0,0,0,d58/Los Lagos/rn,d58/Los Lagos/rn,0
+306,Sauerbaum M. Frank,rn,right,Bío-Bío,42,,,0,0,0,d42/Bío-Bío/rn,0,cambió part
+307,Schaulsohn Jorge,ppd,conc,,,d//ppd,d//ppd,0,0,0,0,0,0
+308,Schilling R. Marcelo,ps,conc,Valparaíso,12,,,0,0,d12/Valparaíso/ps,d12/Valparaíso/ps,d12/Valparaíso/ps,0
+309,Sciaraffia Antonella,dc,conc,,,,,d//dc,0,0,0,0,0
+310,Seguel M. Rodolfo,dc,conc,Metropolitana,28,d//dc,d//dc,d//dc,d28/Metropolitana/dc,0,0,0,0
+311,Sepúlveda H. Roberto,rn,right,Metropolitana,20,,,0,0,d20/Metropolitana/rn,0,0,0
+312,Sepúlveda O. Alejandra,ind-dc,conc,O´Higgins,34,,,0,d34/O´Higgins/ind-dc,d34/O´Higgins/pri,d34/O´Higgins/pri,d34/O´Higgins/ind,cambió part
+313,Silber R. Gabriel,dc,conc,Metropolitana,16,,,0,0,d16/Metropolitana/dc,d16/Metropolitana/dc,d16/Metropolitana/dc,0
+314,Silva M. Ernesto,udi,right,Metropolitana,23,,,0,0,0,d23/Metropolitana/udi,d23/Metropolitana/udi,0
+315,Silva O. Exequiel,dc,conc,Los Lagos,53,0,d//dc,d//dc,d53/Los Lagos/dc,0,0,0,0
+316,Smok Carlos,ps,conc,,,d//ps,,0,0,0,0,0,0
+317,Solis Valentín,rn,right,,,0,d//rn,0,0,0,0,0,0
+318,Soria Jorge,ppd,conc,,,0,d//ppd,d//ppd,0,0,0,0,0
+319,Sota Vicente,ppd,conc,,,d//ppd,d//ppd,0,0,0,0,0,cambió part
+320,Soto Akin,ps,conc,,,d//ps,,0,0,0,0,0,0
+321,Soto F. Leonardo,ps,conc,Metropolitana,30,,,0,0,0,0,d30/Metropolitana/ps,0
+322,Soto G. Laura,ppd,conc,Valparaíso,13,,,d//ppd,d13/Valparaíso/ppd,d13/Valparaíso/ppd,0,0,0
+323,Sotomayor Andrés,rn,right,,,d//rn,,0,0,0,0,0,0
+324,Squella O. Arturo,udi,right,Valparaíso,12,,,0,0,0,d12/Valparaíso/udi,d12/Valparaíso/udi,0
+325,Sule F. Alejandro,prsd,conc,O´Higgins,33,,,0,0,d33/O´Higgins/prsd,0,0,0
+326,Sunico G. Raúl,ps,conc,Bío-Bío,43,,,0,0,d43/Bío-Bío/ps,0,0,0
+327,Taladriz Juan,rn,right,,,d//rn,d//rn,0,0,0,0,0,0
+328,Tapia M. Boris,dc,conc,Maule,36,,,0,d36/Maule/dc,0,0,0,0
+329,Tarud D. Jorge,ppd,conc,Maule,39,,,0,d39/Maule/ppd,d39/Maule/ppd,d39/Maule/ppd,d39/Maule/ppd,0
+330,Teillier D. Guillermo,pcch,conc,Metropolitana,28,,,0,0,0,d28/Metropolitana/pcch,d28/Metropolitana/pcch,0
+331,Tohá Isidoro,ps,conc,,,d//ps,d//ps,0,0,0,0,0,0
+332,Tohá M. Carolina,ppd,conc,Metropolitana,22,,,0,d22/Metropolitana/ppd,0,0,0,0
+333,Torres J. Víctor,dc,conc,Valparaíso,15,,,0,0,0,d15/Valparaíso/dc,d15/Valparaíso/dc,0
+334,Trisotti M. Renzo,udi,right,Tarapacá,2,,,0,0,0,0,d2/Tarapacá/udi,0
+335,Tuma Z. Eugenio,ppd,conc,La Araucanía,51,,d//ppd,d//ppd,d51/La Araucanía/ppd,d51/La Araucanía/ppd,0,0,0
+336,Tuma Z. Joaquín,ppd,conc,La Araucanía,51,,,0,0,0,d51/La Araucanía/ppd,d51/La Araucanía/ppd,0
+337,Turres F. Marisol,udi,right,Los Lagos,57,,,0,0,d57/Los Lagos/udi,d57/Los Lagos/udi,d57/Los Lagos/udi,0
+338,Ulloa A. Jorge,udi,right,Bío-Bío,43,d//udi,d//udi,d//udi,d43/Bío-Bío/udi,d43/Bío-Bío/udi,d43/Bío-Bío/udi,d43/Bío-Bío/udi,0
+339,Uriarte H. Gonzalo,udi,right,Metropolitana,31,,,0,d31/Metropolitana/udi,d31/Metropolitana/udi,0,0,0
+340,Urízar M. Christian,ps,conc,Valparaíso,10,,,0,0,0,0,d10/Valparaíso/ps,0
+341,Urrutia B. Ignacio,udi,right,Maule,40,,,0,d40/Maule/udi,d40/Maule/udi,d40/Maule/udi,d40/Maule/udi,0
+342,Urrutia Raúl,rn,right,,,d//rn,d//rn,0,0,0,0,0,cambió part
+343,Urrutia S. Osvaldo,udi,right,Valparaíso,14,,,0,0,0,0,d14/Valparaíso/udi,0
+344,Urrutia Salvador,ppd,conc,,,,d//ppd,d//ppd,0,0,0,0,0
+345,Valcarce B. Ximena,rn,right,Tarapacá,1,,,0,0,d1/Tarapacá/rn,0,0,0
+346,Valcarce Carlos,rn,right,,,d//rn,d//rn,0,0,0,0,0,0
+347,Valenzuela Felipe,ps,conc,,,d//ps,d//ps,d//ps,0,0,0,0,0
+348,Valenzuela V. Esteban,ppd,conc,O´Higgins,32,,,0,d32/O´Higgins/ppd,d32/O´Higgins/ppd,0,0,0
+349,Vallejo D. Camila,pcch,conc,Metropolitana,26,,,0,0,0,0,d26/Metropolitana/pcch,0
+350,Vallespín L. Patricio,dc,conc,Los Lagos,57,,,0,0,d57/Los Lagos/dc,d57/Los Lagos/dc,d57/Los Lagos/dc,0
+351,Van Rysselberghe H. Enrique,udi,right,Bío-Bío,44,,,d//udi,0,0,d44/Bío-Bío/udi,d44/Bío-Bío/udi,0
+352,Varela H. Mario,udi,right,Metropolitana,20,,,0,d20/Metropolitana/udi,0,0,0,0
+353,Vargas L. Alfonso,rn,right,Valparaíso,10,,d//rn,d//rn,d10/Valparaíso/rn,d10/Valparaíso/rn,0,0,0
+354,Vargas P. Orlando,ppd,conc,Arica y Parinacota,1,,,0,0,0,d1/Arica y Parinacota/ppd,0,0
+355,Vega Osvaldo,rn,right,,,,d//ind,d//rn,0,0,0,0,cambió part
+356,Velasco Sergio,dc,conc,,,d//dc,,d//dc,0,0,0,0,0
+357,Velásquez S. Pedro,ind-pri,regionalista,Coquimbo,8,,,0,0,0,d8/Coquimbo/ind,0,0
+358,Venegas C. Mario,dc,conc,La Araucanía,48,,,0,0,d48/La Araucanía/dc,d48/La Araucanía/dc,d48/La Araucanía/dc,0
+359,Venegas R. Samuel,prsd,conc,Valparaíso,15,,d//dc,d//ind,d15/Valparaíso/prsd,d15/Valparaíso/prsd,0,0,cambió part
+360,Verdugo S. Germán,rn,right,Maule,37,,,0,0,d37/Maule/rn,d37/Maule/rn,d37/Maule/rn,0
+361,Vidal L. Ximena,ppd,conc,Metropolitana,25,,,0,d25/Metropolitana/ppd,d25/Metropolitana/ppd,d25/Metropolitana/ppd,0,0
+362,Viera-Gallo José A.,ps,conc,,,d//ps,d//ps,0,0,0,0,0,0
+363,Vilches G. Carlos,rn,right,Atacama,5,d//rn,d//rn,d//rn,d5/Atacama/rn,0,d5/Atacama/udi,0,0
+364,Vilicic Milenko,dc,conc,,,d//dc,,0,0,0,0,0,0
+365,Villegas Erick,dc,conc,,,0,d//dc,0,0,0,0,0,0
+366,Villouta C. Edmundo,dc,conc,La Araucanía,48,d//dc,d//dc,d//dc,d48/La Araucanía/dc,0,0,0,0
+367,Von Mühlenbrock Z. Gastón,udi,right,Los Lagos,54,,,0,d54/Los Lagos/udi,d54/Los Lagos/udi,d54/Los Lagos/udi,0,0
+368,Walker Ignacio,dc,conc,,,0,d//dc,d//dc,0,0,0,0,0
+369,Walker P. Matías,dc,conc,Coquimbo,8,,,0,0,0,d8/Coquimbo/dc,d8/Coquimbo/dc,0
+370,Walker P. Patricio,dc,conc,Coquimbo,8,,,d//dc,d8/Coquimbo/dc,d8/Coquimbo/dc,0,0,0
+371,Ward E. Felipe,udi,right,Antofagasta,3,,,0,0,d3/Antofagasta/udi,d3/Antofagasta/udi,d3/Antofagasta/udi,0
+372,Wörner Martita,ppd,conc,,,0,d//ppd,0,0,0,0,0,0
+373,Yunge Guiilermo,dc,conc,,,d//dc,,0,0,0,0,0,cambió part
+374,Zalaquett S. Mónica,udi,right,Metropolitana,20,,,0,0,0,d20/Metropolitana/udi,0,0
+375,Zambrano Hector,dc,conc,,,0,d//dc,0,0,0,0,0,0
+376,empty,,,,,,,,,,,,
+377,"Fuente: Memo Rosas me dio 2002-2018 en diciembre 2014, su RA lo obtuvo del sitio web del Congreso. Lo estructuré y completé desde 1990 con info web.",,,,,,,,,,,,
