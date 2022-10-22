@@ -31,7 +31,7 @@ Repository distributes data and code to replicate analysis.
 }
 ```
 
--   Directory [`magar-palanza-sin2021/`](./gubCoat/) is for Eric Magar, Valeria Palanza and Gisela Sin (2021) Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules, *The Journal of Politics* 83(2):633&#x2013;646.
+-   Directory [`magar-palanza-sin2021/`](./magar-palanza-sin2021/) is for Eric Magar, Valeria Palanza and Gisela Sin (2021) Presidents on the Fast Track: Fighting Floor Amendments with Restrictive Rules, *The Journal of Politics* 83(2):633&#x2013;646.
 
 ```bibtex
 @article{magar-palanza-sin2021jop,
