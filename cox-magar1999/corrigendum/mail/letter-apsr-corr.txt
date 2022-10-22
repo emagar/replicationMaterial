@@ -1,0 +1,25 @@
+elisabeth.wood@yale.edu
+Dr. Elisabeth Wood
+Editor
+The American Political Science Review
+
+Dear Dr. Wood:
+
+# I could find no means to send this message through the journal's web page. So I write directly.
+
+An error is hidden in the text of our publication in the APSR (Cox and Magar 1999, vol. 93, issue 2, pp. 299-309).
+
+The error involves our *interpretation* of the regression coefficient of a *control variable* in the model and therefore has minor impact. I nonetheless wish to inquire about the journal's policy regarding corrigenda.
+
+(1) The coefficient reported in Table 1 is correct but, by failing to adopt the cross-temporal perspective, our interpretation of its effect on the regressand is incorrect.
+
+(2) By not involving a regressor of theoretical interest, the error affects no substantive claim we make in the article.
+
+Attached is a better description of this unfortunate yet inconsequential mistake. Please advise on how you would like us to proceed.
+
+# (I have posted this as a corrigendum in a repository with code and data to replicate our analysis at https://github.com/emagar/replicationMaterial). 
+
+Yours truly,
+
+-Gary Cox and Eric Magar. 
+
